@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: wipein
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 6de447fffdc05154a96eead61c45a266, type: 3}
+    - time: 0.041666668
+      value: {fileID: 21300000, guid: 53d72371f68443d489868f530b932153, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: 9ff32c585c4e4314fbf13cc29fb35094, type: 3}
+    - time: 0.125
+      value: {fileID: 21300000, guid: fcd219df7c793c5488f30ac350ae5333, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 4ff9f67c042018b42b236001f001bf22, type: 3}
+    - time: 0.20833333
+      value: {fileID: 21300000, guid: 96c52d92f0f69e64c894ab2887af8fad, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: f9cd94ed118a201479ee8f147f993a58, type: 3}
+    - time: 0.29166666
+      value: {fileID: 21300000, guid: bb21b49f56e30974eba375e962ff9b4c, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: 449cc66280c240646806e77dd26d80eb, type: 3}
+    - time: 0.375
+      value: {fileID: 21300000, guid: 7e6da0f9b3c851e4ab23f043af010b65, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: 96e0b995ec588e34a929dcf38e314917, type: 3}
+    - time: 0.45833334
+      value: {fileID: 21300000, guid: d57bce5058c6ff6488b97198f8650ba9, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 794066aa9cf8a634d8fa3775e4dd4947, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+    flags: 2
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 2015549526
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+      typeID: 114
+      customType: 0
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 6de447fffdc05154a96eead61c45a266, type: 3}
+    - {fileID: 21300000, guid: 53d72371f68443d489868f530b932153, type: 3}
+    - {fileID: 21300000, guid: 9ff32c585c4e4314fbf13cc29fb35094, type: 3}
+    - {fileID: 21300000, guid: fcd219df7c793c5488f30ac350ae5333, type: 3}
+    - {fileID: 21300000, guid: 4ff9f67c042018b42b236001f001bf22, type: 3}
+    - {fileID: 21300000, guid: 96c52d92f0f69e64c894ab2887af8fad, type: 3}
+    - {fileID: 21300000, guid: f9cd94ed118a201479ee8f147f993a58, type: 3}
+    - {fileID: 21300000, guid: bb21b49f56e30974eba375e962ff9b4c, type: 3}
+    - {fileID: 21300000, guid: 449cc66280c240646806e77dd26d80eb, type: 3}
+    - {fileID: 21300000, guid: 7e6da0f9b3c851e4ab23f043af010b65, type: 3}
+    - {fileID: 21300000, guid: 96e0b995ec588e34a929dcf38e314917, type: 3}
+    - {fileID: 21300000, guid: d57bce5058c6ff6488b97198f8650ba9, type: 3}
+    - {fileID: 21300000, guid: 794066aa9cf8a634d8fa3775e4dd4947, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.5416667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.041666668
+    functionName: PlaySfxWhoosh
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

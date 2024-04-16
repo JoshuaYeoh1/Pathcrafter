@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86d976a1f67a4bf4aa122d1b603ff3d3, type: 3}
+  m_Name: steve
+  m_EditorClassIdentifier: 
+  agentIcon: {fileID: 21300000, guid: 5bd379d1701ede642a8092c53919ff13, type: 3}
+  grassCost: 25
+  woodCost: 25
+  stoneCost: 25
+  railCost: 25
+  cobwebCost: 90
+  waterCost: 90
+  lavaCost: 100

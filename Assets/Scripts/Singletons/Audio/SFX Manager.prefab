@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5820533726461378231
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1687878970428232938}
+  - component: {fileID: 8732842379191974522}
+  m_Layer: 0
+  m_Name: SFX Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1687878970428232938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5820533726461378231}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8732842379191974522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5820533726461378231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dfa233c07461a146a0c5081da0df70c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxCobweb:
+  - {fileID: 8300000, guid: dc1777fd28879e24483d03468b9d2582, type: 3}
+  sfxGrass:
+  - {fileID: 8300000, guid: 63ee2fc3a497ea44489d6666665a8e56, type: 3}
+  - {fileID: 8300000, guid: 987cbc8b199543d4692af1e34c7fec88, type: 3}
+  - {fileID: 8300000, guid: 8ab2add38ac7f8b49bd2af257379c2ab, type: 3}
+  - {fileID: 8300000, guid: fb0b17854f78e994f90863cc49e6ffae, type: 3}
+  sfxLava:
+  - {fileID: 8300000, guid: 12f360ac7042df14b8d8cfc515376dfc, type: 3}
+  - {fileID: 8300000, guid: 058e37e0069b3b94eab3e1a40bc9fecc, type: 3}
+  - {fileID: 8300000, guid: a3ac711108515e74d937228ecd68e0b2, type: 3}
+  sfxRail:
+  - {fileID: 8300000, guid: 3f4e02945f7393446b9dfd58b487d5b4, type: 3}
+  sfxStone:
+  - {fileID: 8300000, guid: aef472638cd9a684d836cfb01095856a, type: 3}
+  - {fileID: 8300000, guid: d068710ca22f4094ba1ce7319a77cee6, type: 3}
+  - {fileID: 8300000, guid: 892bd60aff3d8f142bc85efc008ee347, type: 3}
+  - {fileID: 8300000, guid: 28e02c213f4bf634599946eb45153efa, type: 3}
+  sfxWater:
+  - {fileID: 8300000, guid: 5062ef7cf696b76499b7be1c33a9660b, type: 3}
+  - {fileID: 8300000, guid: 98365d36ab8b38e40b81fa0c7a416df6, type: 3}
+  - {fileID: 8300000, guid: 68996566118ad5c44a42b4645d09488a, type: 3}
+  sfxWood:
+  - {fileID: 8300000, guid: a41d89b7bd9608e40aa5713a7a47ae43, type: 3}
+  - {fileID: 8300000, guid: e3f8493a0f927ea47afc9f53cb10a046, type: 3}
+  - {fileID: 8300000, guid: 17aee6b64a7bd4441a362af015779f9a, type: 3}
+  - {fileID: 8300000, guid: 40caafb6aae27a544a730134341f6d19, type: 3}
+  sfxUIBtnClick:
+  - {fileID: 8300000, guid: 23e60bc59ff92604aae80bc27b5651be, type: 3}
+  sfxUIBtnHover:
+  - {fileID: 8300000, guid: a7ea17eb46b0c0f4bad77da63119ae9b, type: 3}
+  - {fileID: 8300000, guid: 28fb828164eaa8e4ca56ab53bc7b7511, type: 3}
+  - {fileID: 8300000, guid: a865fe44b179df2428aa0caa984fba43, type: 3}
+  - {fileID: 8300000, guid: e737e89e07d2a6041bdcc4064718970f, type: 3}
+  - {fileID: 8300000, guid: da93b9c9261ab6a459b10194b5b53ab0, type: 3}
+  - {fileID: 8300000, guid: c43502157f1b0d845b8a9804cd30b63b, type: 3}
+  sfxUIGoal:
+  - {fileID: 8300000, guid: 3f92f7ccca421064ea710c8bfe771d6f, type: 3}
+  sfxUIRenderPath:
+  - {fileID: 8300000, guid: 7c796f908b5297b4584c7fafa1655dff, type: 3}
+  sfxUITeleport:
+  - {fileID: 8300000, guid: 130d9c294138664438b965bb55e8d094, type: 3}
+  - {fileID: 8300000, guid: 0eb2fbd4b4bf8e542989233eea3e64e2, type: 3}
+  sfxUITransition:
+  - {fileID: 8300000, guid: 68679735c7e35354aa193e5baae30e76, type: 3}
+  - {fileID: 8300000, guid: 2579fafe7dccbde49a0a4da7933d17c9, type: 3}
+  - {fileID: 8300000, guid: c3d996df812158d46938cc321867fba6, type: 3}
+  - {fileID: 8300000, guid: 508ba0f8f70d8674eb970bac32bcc78b, type: 3}
+  - {fileID: 8300000, guid: 2185375ee9499034287ad20402307b04, type: 3}
+  - {fileID: 8300000, guid: 9cd1f438fea53d540a8a55625310b54b, type: 3}
+  sfxUITween:
+  - {fileID: 8300000, guid: 3501439c063c91a4e90f58f732b3ff86, type: 3}
+  - {fileID: 8300000, guid: b60467e010ec4f244a0a7d969a9eeb97, type: 3}
